@@ -1,5 +1,6 @@
 {
-  "name": "clerkinc/backend-php",
+  "name": "asika/clerk-php-sdk",
+  "description": "A fork of Clerk PHP SDK to publish to composer.",
   "type": "library",
   "autoload": {
     "psr-4": {
